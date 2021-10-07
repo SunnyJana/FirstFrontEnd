@@ -1,14 +1,14 @@
 body{
-  padding: 10px;
+  padding: 15px;
 
 }
 header{
-  background-color: #999999;
+  background-color: #888888;
   background-image: url("http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg");
-  padding: 3px;
+  padding: 4px;
 }
 h1{
-  color: #ffffff;
+  color: #dddddd;
   text-align: center;
   text-transform: uppercase;
 }
@@ -16,14 +16,14 @@ nav{
   display: block;
    margin: auto;
   text-align: center;
- padding: 5px;
+ padding: 4px;
   overflow: auto;
 }
 nav>a{
   display: inline-block;
   width: 10%;
     color: #000000;
-    background-color: rgba(191, 191, 191, 0.5);
+    background-color: rgba(186, 181, 190, 0.5);
     font-weight: bold;
   padding: 15px;
   margin:10px 65px;
